@@ -1,0 +1,55 @@
+《茶道养生》: 	林治:S-Nh 林治:S-Nh 
+桂花龙井茶: 	西湖:B-Ni 龙井:I-Ni 代表:I-Ni 杭州:I-Ni 城市形象:I-Ni 桂花:E-Ni 丹桂:S-Nh 张福全:S-Nh 王维:S-Nh 叶含:B-Nh 雷信:E-Nh 味美:B-Ns 绝胜阳:E-Ns 玉川:S-Ns 赵州:S-Nh 西湖:S-Ns 西湖:S-Ns 杭州:B-Ns 灵隐:I-Ns 天竺:E-Ns 杭州:S-Ns 西湖:S-Ns 杭州:S-Ns 杭州:S-Ns 杭州:S-Ns 杭州:S-Ns 杭州:B-Ni 山地:I-Ni 茶业:I-Ni 有限公司:E-Ni 浙江:B-Ns 杭州:E-Ns 西湖:S-Ns 杭州:S-Ns 甘芳:S-Nh 龙井:S-Nh 西湖:S-Ns 西湖:S-Ns 西湖:S-Ns 西湖:S-Ns 西湖:S-Ns 西湖:S-Ns 西湖:B-Ni 龙井:I-Ni 等级:E-Ni 西湖:S-Ns 杭州:B-Ni 山地:I-Ni 茶业:I-Ni 有限公司:E-Ni 杭州:B-Ns 西湖:E-Ns 杭州:B-Ni 山地:I-Ni 茶业:I-Ni 有限公司:E-Ni 西湖:B-Nh 龙井:E-Nh 
+《亮剑普洱》: 	普洱:S-Ns 林治:S-Nh 
+屠幼英: 	浙江大学:S-Ni 
+不对茶人说茶: 	
+茶垢: 	茶山:S-Ns 茶山:S-Ns 茶山:S-Ns 茶山:S-Ns 
+蔡如桂: 	蔡如桂:S-Nh 包拯:S-Nh 安徽:S-Ns 陕西:B-Ns 汉中市:E-Ns 
+都督毛峰茶: 	广西:S-Ns 无为县:B-Ns 六店:E-Ns 巢湖市:B-Ns 坝镇:E-Ns 
+大茶网: 	中国:S-Ns 中国:S-Ns 湖南:S-Ns 刘健:S-Nh 大茶网:B-Ni 大农:I-Ni 科技股份:I-Ni 有限公司:E-Ni 湖南省:B-Ni 茶业:I-Ni 协会:I-Ni 电子商务:I-Ni 专业:I-Ni 委员会:E-Ni 中国:S-Ns 
+茶学重点实验室: 	湖南:B-Ni 农业大学:I-Ni 高技术:I-Ni 速溶:I-Ni 食品:I-Ni 研究:I-Ni 中心:I-Ni 湖南:I-Ni 农业大学:I-Ni 茶叶:I-Ni 研究所:E-Ni 教育部:S-Ni 
+峨嵋竹叶青: 	峨眉:B-Ni 竹叶青:I-Ni 外形:E-Ni 峨眉:S-Ns 
+大茶门: 	武夷:S-Ns 谭公:S-Nh 福州:S-Ns 
+广东茶文化: 	广东茶文化:S-Ns 中国:S-Ns 广东:S-Ns 广东:S-Ns 曹松:S-Nh 南海:B-Ns 西樵山:E-Ns 广东茶文化:S-Ns 广东:S-Ns 广东:S-Ns 广东茶文化:S-Ns 广东茶文化:S-Ns 英德:B-Ni 茶:I-Ni 潮州:I-Ni 茶:I-Ni 罗浮山:I-Ni 茶:I-Ni 功夫茶:E-Ni 广东茶文化:S-Ns 广东:S-Ns 广州:S-Ns 潮州:S-Ns 岭南:S-Ns 广东茶文化:S-Ns 广东:S-Ns 广东:S-Ns 西樵:S-Ns 茶山:S-Ns 曹松:S-Nh 曹松:S-Nh 舒州:S-Ns 安徽:B-Ns 潜山:E-Ns 广州:B-Ns 西樵山:E-Ns 浙江:B-Ns 顾渚:E-Ns 岭南:B-Ns 屈大均:S-Nh 广东茶:S-Ns 广州:B-Ns 河南:E-Ns 西樵山:B-Ns 鼎湖山:I-Ns 罗浮山:I-Ns 潮阳:I-Ns 凤山:I-Ns 琼州:E-Ns 屈大均:S-Nh 雍正:S-Nh 广东:S-Ns 张渠:S-Nh 河北:B-Ns 武强:E-Ns 粤东:S-Ns 粤:S-Ns 广东:S-Ns 广州:B-Ns 河南:I-Ns 茶外:I-Ns 珍品:I-Ns 肇庆:I-Ns 鼎湖:E-Ns 韶关:S-Ns 惠州:S-Ns 化州:S-Ns 广东:S-Ns 广东:S-Ns 广东:S-Ns 广东茶文化:S-Ns 广东:S-Ns 广东:S-Ns 广东:S-Ns 广州:S-Ns 广东:S-Ns 广东:S-Ns 毛泽东:S-Nh 广东:S-Ns 广东:S-Ns 岭南:S-Ns 广东:S-Ns 广东:S-Ns 广东:B-Ns 茶市:E-Ns 广东茶文化:S-Ns 广东:S-Ns 岭南:S-Ns 岭南:S-Ns 广东:S-Ns 广东:S-Ns 广东:S-Ns 中国:S-Ns 广东:S-Ns 广东:S-Ns 广东:S-Ns 广东:S-Ns 广东:S-Ns 广东:S-Ns 普洱:S-Ns 广东:S-Ns 广东:S-Ns 广东:S-Ns 岭南:S-Ns 岭南:S-Ns 广东:S-Ns 广东:S-Ns 广东茶文化:S-Ns 广东:S-Ns 广东:B-Ni 点心:E-Ni 广州:S-Ns 广东:S-Ns 广东:S-Ns 广东:B-Ns 茶市:E-Ns 广东:S-Ns 广东:S-Ns 潮州:S-Ns 中国:S-Ns 潮州:S-Ns 潮州:B-Ni 功夫茶:E-Ni 潮州:B-Ns 地区:E-Ns 潮州:S-Ns 潮州:S-Ns 翁辉东:B-Ns 潮州:E-Ns 潮州:B-Ni 功夫茶:E-Ni 高冲:S-Nh 关公:S-Nh 韩信点兵:S-Nh 苏东坡:S-Nh 潮州:S-Ns 关公:S-Nh 韩信点兵:S-Nh 大口:S-Ns 广东:S-Ns 广东:S-Ns 广东:S-Ns 英德:B-Ni 茶:I-Ni 潮州:I-Ni 茶:I-Ni 罗浮山:I-Ni 茶:I-Ni 功夫茶:E-Ni 广东:B-Ns 韶关:E-Ns 广东:B-Ns 韶关:E-Ns 广东省:B-Ns 英德县:E-Ns 喀斯特:S-Ns 属南:S-Ns 云南:B-Ns 大叶:I-Ns 凤凰:E-Ns 中国:B-Ni 工业:I-Ni 食品:I-Ni 协会:E-Ni 江西:B-Ns 南昌:E-Ns 英德:S-Ns 德国:B-Ns 英国:I-Ns 美国:I-Ns 波兰:I-Ns 苏丹:I-Ns 澳大利亚:E-Ns 饶平县:B-Ns 坪:E-Ns 广东省:S-Ns 福建:B-Ns 广西:I-Ns 湖南:I-Ns 海南:E-Ns 甘芳:S-Nh 潮州市:B-Ns 潮安县:E-Ns 凤凰山:S-Ns 夏无:S-Nh 其成:S-Nh 潮州:B-Ns 凤凰:E-Ns 凤凰:S-Ns 广东:S-Ns 潮州:S-Ns 石古坪:S-Ns 潮州市:B-Ni 潮安县:I-Ni 凤凰:I-Ni 镇:I-Ni 大质山:I-Ni 山腰:I-Ni 石古坪:I-Ni 畲族:I-Ni 村:I-Ni 石古坪:S-Ns 石古坪:S-Ns 石古坪:S-Ns 石古坪:S-Ns 石古坪:S-Ns 甘芳:S-Nh 叶底:S-Nh 石古坪:S-Ns 尚匀:S-Nh 石古坪:S-Ns 广东省:S-Ns 西岩:S-Ns 西岩:S-Ns 大埔县:S-Ns 岩山:S-Ns 西岩:S-Ns 饶平县:B-Ns 福建省:E-Ns 大埔:S-Ns 西岩:S-Ns 六道:S-Ns 于世:S-Nh 西岩:S-Ns 乌绿匀:S-Nh 广东省:S-Ns 中国:S-Ns 广东:B-Ns 兴宁市:E-Ns 汤色橙:S-Nh 广东省:S-Ns 广东省:S-Ns 三峰:S-Ns 广东省:B-Ns 兴宁市:E-Ns 黄旦:S-Nh 三峰:S-Ns 金萱:S-Nh 金萱:S-Nh 广东省:B-Ni 农业:I-Ni 科学院:I-Ni 茶叶:I-Ni 研究所:E-Ni 台湾省:S-Ns 金萱:S-Nh 广东省:S-Ns 广东省:B-Ns 丰顺县:E-Ns 谭:S-Nh 叶为:S-Nh 广东省:S-Ns 中华人民共和国:S-Ns 广东省:S-Ns 广东:S-Ns 广东茶文化:S-Ns 广东茶:S-Ns 
+古代绿茶评级标准: 	
+湖北黑茶: 	湖北:S-Ns 陈:S-Nh 
+湖北和合永安农业发展有限公司: 	湖北:B-Ni 宜昌:I-Ni 成立:I-Ni 公司:E-Ni 夏花:S-Nh 秋香:S-Nh 普洱:S-Ns 
+敬亭绿茶: 	安徽省:B-Ns 宣州市:E-Ns 
+泾渭茯茶: 	蒙古:S-Ns 美:S-Ns 
+骆耀平: 	骆耀平:S-Nh 浙江省:B-Ni 茶叶:I-Ni 学会:E-Ni 
+李瑞河: 	李瑞河:B-Ni 天福:I-Ni 集团:E-Ni 中国:S-Ns 台湾省:B-Ns 南投:E-Ns 福建:B-Ns 漳浦:E-Ns 台湾:B-Ni 天仁:I-Ni 集团:E-Ni 天福:B-Ni 集团:E-Ni 天福:B-Ni 集团:E-Ni 漳州:S-Ns 福建:B-Ni 厦:I-Ni 厦门:I-Ni 汕:I-Ni 汕头:I-Ni 高速公路:I-Ni 天福:I-Ni 服务区:E-Ni 四川:B-Ns 天福:E-Ns 李瑞河:S-Nh 天福:B-Ni 茶:I-Ni 学院:E-Ni 漳州市:S-Ns 漳州:S-Ns 
+手筑茯砖: 	
+灵岩茶: 	山东:B-Ns 灵岩寺:E-Ns 叶底:S-Nh 泉城:S-Ns 泉城:S-Ns 中国:S-Ns 灵岩:S-Ns 济南:S-Ns 山东:S-Ns 泰山:B-Ni 茶业:I-Ni 科技开发:I-Ni 有限公司:E-Ni 董庆国:S-Nh 董庆国:S-Nh 山东省:S-Ns 山东:S-Ns 山东省:B-Ns 百名:E-Ns 济南市:S-Ns 长清县:B-Ni 志:I-Ni 济南:I-Ni 年鉴:E-Ni 济南:S-Ns 灵岩寺:S-Ns 四川:B-Ns 云南:E-Ns 四川:S-Ns 关中:B-Ns 中原:E-Ns 泰山:B-Ns 灵岩寺:E-Ns 大兴:S-Ns 陆鸿渐:S-Nh 大兴:S-Ns 朝市:S-Ns 灵岩寺:S-Ns 灵岩寺:S-Ns 灵岩寺:B-Ns 浙江:I-Ns 天台山:I-Ns 国清寺:I-Ns 南京:I-Ns 栖霞寺:I-Ns 湖北:I-Ns 江陵:E-Ns 泰山:S-Ns 灵岩寺:S-Ns 灵岩寺:S-Ns 六律庄:S-Ns 小寺:S-Ns 老庄:S-Nh 岩寺:S-Ns 灵岩寺:S-Ns 五莲:B-Ns 胶南:I-Ns 泰安:I-Ns 济南:I-Ns 长清:I-Ns 灵岩寺:E-Ns 灵岩寺:S-Ns 灵岩寺:S-Ns 董庆国:S-Nh 济南市:S-Ns 济南:S-Ns 山东:B-Ns 长清:I-Ns 灵岩寺:E-Ns 济南市:B-Ns 长清区:I-Ns 万德镇拔:I-Ns 山村:E-Ns 庄:S-Nh 南至:B-Ns 万德镇:E-Ns 五峰:B-Ni 山:I-Ni 街道:I-Ni 办事处:E-Ni 石窝村:S-Ns 济南市:B-Ns 长清区:E-Ns 浙江:S-Ns 安徽:B-Ns 黄山:E-Ns 长清区:S-Ns 万德镇:S-Ns 山镇:S-Ns 泰安:B-Ns 肥城:E-Ns 五峰:S-Ns 张夏镇:S-Ns 山东:S-Ns 日照:S-Ns 崂山:S-Ns 济南:S-Ns 长江:S-Ns 山东:S-Ns 泰山:B-Ni 茶业:I-Ni 科技开发:I-Ni 有限公司:E-Ni 南茶:S-Nh 董庆国:S-Nh 济南市:S-Ns 济南:S-Ns 董庆国:S-Nh 济南:S-Ns 长清县:S-Ns 长清区:B-Ni 万德镇:I-Ni 双泉:I-Ni 乡:I-Ni 马:E-Ni 泰安:B-Ns 肥城:E-Ns 董庆国:S-Nh 济南:S-Ns 山东:S-Ns 张丽霞:S-Nh 安徽:S-Ns 詹罗九:S-Nh 董庆国:S-Nh 济南市:S-Ns 济南:B-Ns 长清:E-Ns 山东:B-Ns 南茶:I-Ns 北引:E-Ns 长清区:S-Ns 济南:S-Ns 灵岩:S-Ns 西湖:S-Ns 济南市:S-Ns 长清区:S-Ns 叶底:S-Nh 中国:S-Ns 济南市:B-Ns 长清区:E-Ns 灵岩:S-Ns 灵岩:S-Ns 叶底:S-Nh 灵岩:S-Ns 叶底:S-Nh 灵岩:S-Ns 灵岩:S-Ns 灵岩:S-Ns 灵岩:S-Ns 灵岩:S-Ns 灵岩:S-Ns 泰山:B-Ni 茶叶:I-Ni 有限公司:E-Ni 灵岩:S-Ns 叶底:S-Nh 灵岩:S-Ns 灵岩:S-Ns 灵岩:S-Ns 董庆国:S-Nh 灵岩:S-Ns 中国:S-Ns 泉城:S-Ns 香如兰:S-Ns 北茶:S-Ns 灵岩:S-Ns 中华人民共和国:S-Ns 灵岩:S-Ns 中国:S-Ns 灵岩:S-Ns 灵岩:S-Ns 济南:S-Ns 济南:S-Ns 灵岩:S-Ns 山东:S-Ns 灵岩:S-Ns 山东:S-Ns 
+黄练芽茶: 	黄练芽茶:S-Nh 黄练芽茶:S-Nh 中国:S-Ns 湖南省:B-Ns 醴陵市:I-Ns 官庄:E-Ns 坑村:B-Nh 
+江西省婺源茶叶学校: 	江西省婺源茶叶学校:B-Ni 上饶:I-Ni 职业:I-Ni 技术:I-Ni 学院:I-Ni 婺源:I-Ni 校区:E-Ni 中国:S-Ns 婺源:B-Nh 江西省:S-Ns 婺源:B-Ni 制茶科:I-Ni 初级:I-Ni 应用:I-Ni 职业:I-Ni 学校:E-Ni 上饶:B-Ni 职业:I-Ni 技术:I-Ni 学院:E-Ni 婺源:S-Ns 
+《神州问茶》: 	
+吴锡端: 	吴锡端:S-Nh 安徽:S-Ns 商业部:B-Ni 土特产品:I-Ni 管理司:I-Ni 茶叶:I-Ni 处:I-Ni 中国:I-Ni 农副产品:I-Ni 开发:I-Ni 公司:E-Ni 中国:B-Ni 茶叶:I-Ni 流通:I-Ni 协会:E-Ni 
+王登良: 	王登良:S-Nh 华南农业大学:B-Ni 茶叶:I-Ni 科学:I-Ni 系主任:I-Ni 院:I-Ni 学术:I-Ni 学位:I-Ni 委员会:E-Ni 广东省:S-Ns 广州:B-Ni 茶文化:I-Ni 促进会:I-Ni 理事:I-Ni 广东省:I-Ni 农作物:I-Ni 品种:I-Ni 审定:I-Ni 委员会:E-Ni 中国:S-Ns 
+显毫: 	
+云南农业大学龙润普洱茶学院: 	云南:S-Ns 云南:S-Ns 云南:B-Ni 普洱茶:I-Ni 研究院:I-Ni 国家:I-Ni 普洱茶:I-Ni 认证:I-Ni 中心:E-Ni 云南:S-Ns 
+王国鉴: 	王国鉴:S-Nh 福建省:S-Ns 北京农业大学:S-Ni 曾任:S-Nh 三明市:S-Ns 福建省:B-Ni 茶叶:I-Ni 学会:E-Ni 
+唐明熙: 	唐明熙:S-Nh 黄山:S-Ns 安徽:B-Ni 歙县:I-Ni 人:I-Ni 茶学:I-Ni 专科:I-Ni 大学:E-Ni 中国:S-Ns 中国:B-Ni 茶:I-Ni 学会:E-Ni 中国:S-Ns 
+明清茶文化: 	中国:S-Ns 
+铜陵野雀舌: 	乾隆:S-Nh 江南:S-Ns 
+原叶茯茶: 	云台山:S-Ns 中国:S-Ns 
+云铜普洱茶: 	云南:S-Ns 而云:S-Nh 乔木:S-Nh 陈越香:S-Nh 
+叶乃兴: 	叶乃兴:S-Nh 福建:B-Ns 寿宁县:E-Ns 福建:B-Ni 农林:I-Ni 大学:I-Ni 园艺:I-Ni 学院:E-Ni 福建:B-Ni 农林:I-Ni 大学:I-Ni 茶叶:I-Ni 科技:I-Ni 经济:I-Ni 研究所:E-Ni 福建省:S-Ns 
+杨贤强: 	杨贤强:S-Nh 越南:S-Ns 浙江农业大学:S-Ni 浙江大学:S-Ni 全国:B-Ni 高等:I-Ni 农业院校:I-Ni 教学:I-Ni 委员会:E-Ni 浙江省:B-Ni 茶叶:I-Ni 学会:E-Ni 浙江省:S-Ns 致公党:B-Ni 浙江:I-Ni 省委常委:I-Ni 浙江省:I-Ni 侨联:E-Ni 
+野尖茯砖黑茶: 	湖南:S-Ns 
+源茗茶: 	江西省:B-Ns 婺源县:E-Ns 
+醉茶综合征: 	
+张其生: 	张其生:S-Nh 安徽:B-Ni 农学院:I-Ni 一位:I-Ni 贵州高原:E-Ni 
+中国名泉: 	胡素敏:S-Nh 卢金凯:S-Nh 朱光建:S-Nh  :B-Ni 出版社:E-Ni 中国名泉:S-Ns 大好河山:S-Ns 热河:S-Ns 赤城:S-Ns 广胜寺:S-Ns 阿尔山:S-Ns 五大连池:S-Ns 长白:S-Ns 兴城:S-Ns 济南:S-Ns 崂山:S-Ns 惠山:S-Ns 黄山:S-Ns 关子岭:S-Ns 安阳:S-Ns 咸宁:S-Ns 中山:S-Ns 华清池:S-Ns 月牙泉:S-Ns 酒泉:S-Ns 水磨沟:S-Ns 贡嘎山:S-Ns 中华人民共和国:S-Ns 陕西:B-Ns 临潼:I-Ns 骊山:E-Ns 华:S-Nh 山东:B-Ns 济南:E-Ns 泉城:S-Ns 江苏:B-Ns 无锡:I-Ns 惠山:E-Ns 杭州:B-Ni 西湖:I-Ni 边有:I-Ni 龙井:I-Ni 泉:I-Ni 庐山:I-Ni 东林寺:I-Ni 聪明:I-Ni 泉:I-Ni 承德避暑山庄:I-Ni 热河:I-Ni 泉:E-Ni 
+张星显: 	张星显:S-Nh 汉中市:B-Ni 茶业:I-Ni 协会:I-Ni 副会长:I-Ni 汉中市:I-Ni 茶:I-Ni 产业:I-Ni 发展:I-Ni 协调:I-Ni 指导:I-Ni 委员会:I-Ni 办公室:E-Ni 汉中市:B-Ni 农技:I-Ni 中心:I-Ni 开发部:E-Ni 
+宗祖薄片: 	张良:S-Nh 渠江:S-Ns 张良:S-Nh 湖南省:B-Ns 安化县:I-Ns 渠江:E-Ns 
+云台山云雾茶: 	连云港:S-Ns 中国:S-Ns 江苏省:B-Ns 连云港市:I-Ns 云台山:E-Ns 太湖:B-Ns 碧螺春:I-Ns 南京:I-Ns 雨花:E-Ns 海州:B-Ns 知州:E-Ns 唐仲冕:S-Nh 
+古韵茗家: 	
+湖州老茶: 	浙江:B-Ns 湖州:E-Ns 湖州:S-Ns 南浔:S-Ns 湖州:S-Ns 湖州:S-Ns 杭州:S-Ns 陆羽:S-Nh 湖州市:S-Ns 
+茶学说: 	
+千岛春露: 	千岛春露:B-Ns 新洲:E-Ns 浙江:B-Ni 新洲:I-Ni 国际贸易:I-Ni 有限公司:E-Ni 淳安:B-Ni 新洲:I-Ni 制茶:I-Ni 有限公司:E-Ni 千岛湖:S-Ns 
+《试院煎茶》: 	苏轼:S-Nh 
+榕江茶: 	云南:S-Ns 广西:B-Ns 大苗山:I-Ns 常绿林:E-Ns 
+《说茶饮茶》: 	俞:B-Nh 永明:E-Nh 
+小瘤果茶: 	贵州:B-Ns 赤水:I-Ns 金沙:E-Ns 叶柄:S-Nh 
+长凸连蕊茶: 	广西:B-Ns 融水县:I-Ns 泗涧山:E-Ns 
+河南省茶文化研究会: 	郑州:S-Ns 

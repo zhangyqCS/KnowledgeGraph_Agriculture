@@ -1,0 +1,61 @@
+荸荠杨梅: 	杨梅:S-Nh 
+火焰无核葡萄: 	美国:B-Ns 美国:E-Ns 
+黑色甜菜葡萄: 	布拉:S-Nh 彼特:S-Nh 日本:B-Ns 熊本县:E-Ns 隆夫:S-Nh 日本:S-Ns 
+攀金葡萄: 	叶远:S-Nh 叶缘:S-Nh 叶柄:S-Nh 新西兰:S-Ns 
+中华寿桃: 	中国:S-Ns 安徽:B-Ni 宝凤:I-Ni 苗木:E-Ni 桃中:S-Ns 山东:B-Ns 莱西:E-Ns 山东省:S-Ns 
+魏可葡萄: 	魏可葡萄:S-Nh 叶柄:S-Nh 两性花:S-Nh 魏可葡萄:S-Nh 魏可葡萄:S-Nh 江苏:B-Ns 张家港:E-Ns 魏可葡萄:S-Nh 
+漂浮育苗: 	美国:S-Ns 董蒸:S-Nh 董蒸:S-Nh 孔穴:S-Nh 云南:S-Ns 孔穴:S-Nh 
+黄秋葵种子: 	黄秋葵:S-Nh 黄秋葵:S-Nh 
+清明早茶: 	瑞安:B-Ni 清明早茶:I-Ni 温州:I-Ni 四大:I-Ni 名茶:E-Ni 扁平:S-Nh 温州:B-Ns 瑞安:E-Ns 
+豫农416: 	豫农416:B-Ni 河南:I-Ni 农业大学:E-Ni 豫麦:S-Ns 河南:S-Ns 
+长江玉6号: 	南通市:B-Ns 长江:E-Ns 
+国华棉1号: 	国华棉1号:B-Ni 合肥:I-Ni 丰乐:I-Ni 种业:I-Ni 股份:I-Ni 有限公司:E-Ni 盐城市:B-Ni 种业:I-Ni 有限公司:E-Ni 江苏省:S-Ns 
+太仓602: 	太仓602:B-Ni 太仓市:I-Ni 棉花:I-Ni 育种:I-Ni 中心:I-Ni 江苏省:I-Ni 农业:I-Ni 科学院:I-Ni 生物:I-Ni 技术:I-Ni 研究:I-Ni 苏棉:E-Ni 
+DTARI028: 	云南省:B-Ni 德宏:I-Ni 热带:I-Ni 农业:I-Ni 科学:I-Ni 研究所:E-Ni 李文伟:B-Nh 周华:I-Nh 邢正秀:I-Nh 张洪波:E-Nh 蒂姆:S-Nh 保山:B-Ns 潞:I-Ns 江坝:I-Ns 新城:E-Ns 德宏:S-Ns 普洱县:B-Ni 咖啡:I-Ni 公司:E-Ni 开沟:S-Ns 施:S-Nh 宜地:S-Ns 云南省:S-Ns 德宏:B-Ns 保山:I-Ns 普洱:I-Ns 临沧:E-Ns 
+安溪铁观音茶: 	安溪:B-Ns 福建省:I-Ns 泉州市:I-Ns 辖县:I-Ns 中国:E-Ns 凤城镇:S-Ns 清溪:S-Ns 宋改为:S-Nh 戴云山:S-Ns 安溪:B-Ns 戴云山:E-Ns 安溪:B-Ns 低山:E-Ns 西溪:S-Ns 属南:S-Ns 安溪:S-Ns 
+白银豆: 	南美:S-Ns 温州:S-Ns 李瑞环:S-Nh 青果:S-Ns 瑞安市:B-Ns 马屿:I-Ns 荆谷:E-Ns 丽:S-Nh 永嘉县:S-Ns 黄田:B-Ns 上塘:E-Ns 
+华蝉: 	华蝉:S-Nh 
+大马士革三号玫瑰: 	大马士革:S-Ns 中国:S-Ns 大马士革:S-Ns 大马士革:B-Ni No.01:I-Ni 玫瑰:I-Ni 大马士革:I-Ni 玫瑰:I-Ni 源产地:E-Ni 保加利亚:S-Ns 中国:S-Ns 大马士革:S-Ns 
+凤阳烤烟: 	风阳:S-Ns 安徽:B-Ns 凤阳:E-Ns 安徽:S-Ns 曾以:S-Nh 
+白罗莎里奥葡萄: 	日本:B-Ni 植原:I-Ni 葡萄:I-Ni 研究所:E-Ni 北京植物园:B-Ns 日本:E-Ns 叶处:S-Nh 叶柄:S-Nh 两性花:S-Nh 无小青粒:S-Nh 江苏:B-Ns 张家港:E-Ns 高宽:S-Nh 谢花后:S-Nh 
+红宝石葡萄: 	美国:B-Ns 加利福尼亚州:E-Ns 欧亚:S-Nh 
+红旗特早玫瑰葡萄: 	山东省:B-Ni 平度市:I-Ni 红旗:I-Ni 园艺场:E-Ni 谭世廷:S-Nh 
+进口番茄粉: 	
+晋油7号: 	山西省:B-Ni 农科院:I-Ni 棉花:I-Ni 研究所:E-Ni 山西:B-Ns 河南:I-Ns 陕西:I-Ns 黄淮地区:E-Ns 
+九山生姜: 	江西:B-Ni 名特:I-Ni 蔬菜:I-Ni 兴国县:I-Ni 留龙:E-Ni 九山:S-Ns 满村:S-Ns 郡县:S-Ns 虔州:S-Ns 赣州市:S-Ns 刘裕:S-Nh 刘氏:S-Nh 虔州:S-Ns 虔州:B-Ns 九山:E-Ns 虔州:S-Ns 唐宪宗:S-Nh 郡县:S-Ns 姜王:S-Nh 绕村:S-Ns 中国:S-Ns 上海:S-Ns 中国:B-Ni 九山:I-Ni 姜:E-Ni 丘:B-Ns 圩:E-Ns 小山村:S-Ns 兴国:S-Ns 杰村:S-Ns 东南亚:S-Ns 九山生姜:S-Nh 
+假鹰爪: 	中国:B-Ns 广东:I-Ns 广西:I-Ns 云南:I-Ns 贵州:E-Ns 印度:B-Ns 老挝:I-Ns 柬埔寨:I-Ns 越南:I-Ns 马来西亚:I-Ns 新加坡:I-Ns 菲律宾:I-Ns 印度尼西亚:E-Ns 海南:S-Ns 
+茶树菇高产稳产栽培技术: 	
+德蔗95-7: 	
+毛花柱忍冬: 	广东:B-Ns 肇庆:I-Ns 鼎湖山:I-Ns 广西:E-Ns 
+江苏省农业科学院经济作物研究所: 	江苏省农业科学院经济作物研究所:S-Ns 华东:B-Ni 农业:I-Ni 科学:I-Ni 研究所:E-Ni 江苏:S-Ns 江苏省:S-Ns 江苏省:S-Ns 江苏省:S-Ns 江苏省农业科学院经济作物研究所:S-Ns 国家:B-Ni 油料作物:I-Ni 改良:I-Ni 中心:I-Ni 南京:I-Ni 分中心:E-Ni 农业部:S-Ni 苏杂:S-Nh 苏彩杂:S-Nh 宁杂:S-Nh 苏优:S-Nh 宁杂:S-Ns 宁杂:S-Nh 宁杂:S-Nh 
+梁蔗97-18: 	梁蔗:S-Nh 梁蔗:S-Nh 梁河县:S-Ns 陈灿:B-Nh 倪正昌:E-Nh 梁蔗:S-Nh 梁蔗:S-Nh 
+克瑞森葡萄: 	美国:S-Ns 
+连南瑶山茶油: 	连南:S-Ns 康熙:S-Nh 百里:S-Ns 南山:B-Ni 毛:E-Ni 连南:S-Ns 使连南:S-Ns 南县:S-Ns 南:S-Ns 南山:S-Ns 广东省:B-Ns 连南瑶族自治县:E-Ns 南府:S-Ns 广东省:B-Ns 连南瑶族自治县:E-Ns 
+科棉7号: 	科杂:S-Nh 科杂:S-Nh 江苏省:B-Ni 科腾:I-Ni 棉业:I-Ni 有限责任:I-Ni 公司:E-Ni 苏棉:S-Ns 
+屏山茶业核心区: 	屏山茶业核心区:S-Ns 屏山:S-Ns 福建省:B-Ns 大田县:E-Ns 吴山:S-Nh 福州:S-Ns 厦门:S-Ns 泉州:S-Ns 三明市:S-Ns 屏山:S-Ns 屏山:S-Ns 叶底:S-Nh 台湾:B-Ni 金萱:I-Ni 铁观音:E-Ni 福建省:S-Ns 韩国:S-Ns 中国:S-Ns 王赛:S-Nh 上海:B-Ni 国际:I-Ni 茶:I-Ni 文化节:E-Ni 中国:S-Ns 中国:S-Ns 日本:B-Ns 东南亚:I-Ns 台湾:E-Ns 屏山:S-Ns 屏山:S-Ns 屏山:S-Ns 屏山:S-Ns 屏山:B-Ni 县委:I-Ni 县政府:E-Ni 大田县:S-Ns 赵荣生:S-Nh 屏山:S-Ns 
+绿背桂花: 	广东:B-Ns 广西:I-Ns 云南:E-Ns 
+南雄烟叶: 	黄烟:S-Nh 南雄:B-Ns 一宝:I-Ns 南雄:E-Ns 南雄:B-Ni 卷烟厂:E-Ni 南雄:S-Ns 
+农大棉8号: 	
+泗阳698: 	泗阳698:B-Ni 江苏省:I-Ni 农业:I-Ni 科学院:I-Ni 宿迁:I-Ni 农科所:E-Ni 泗阳:S-Ns 泗阳:S-Ns 泗阳:S-Ns 
+磐安白术: 	磐安:S-Ns 浙江:B-Ns 磐安:E-Ns 
+苏杂061: 	江苏省:B-Ni 大华:I-Ni 种业:I-Ni 集团:I-Ni 有限公司:E-Ni 江苏省:B-Ni 农垦:I-Ni 集团:I-Ni 有限公司:E-Ni 苏棉:S-Nh 江苏省:S-Ns 
+树葡萄: 	叶柄:S-Nh 天津:S-Ns 
+脱毒山芋: 	
+万亩葵园: 	万亩葵园:S-Ns 山东:B-Ns 东营:I-Ns 垦利县:E-Ns 黄河:S-Ns 东营:B-Ns 黄河:E-Ns 黄河:S-Ns 黄河:S-Ns 万亩葵园:S-Ns 东营市:B-Ni 垦利县:I-Ni 委:I-Ni 县政府:E-Ni 黄河:S-Ns 黄河:S-Ns 黄河:S-Ns 黄河:S-Ns 黄河:B-Ns 天街:E-Ns 黄河三角洲:B-Ns 地区:E-Ns 
+蒲江猕猴桃: 	蒲江:S-Ns 蒲江县:S-Ns 四川省:B-Ns 成都市:I-Ns 蒲江县:E-Ns 四川:S-Ns 蒲江县:S-Ns 蒲江:S-Ns 中国:S-Ns 
+陶山甘蔗: 	陶:S-Nh 浙江省:S-Ns 瑞安市:S-Ns 
+投资与创业: 	中国:B-Ni 生产力:I-Ni 学会:I-Ni 黑龙江省:I-Ni 生产力:I-Ni 学会:E-Ni 
+兴国九山生姜: 	兴国九山生姜:B-Ns 江西:I-Ns 名特:E-Ns 兴国县:S-Ns 九山:S-Ns 满村:S-Ns 
+夏黑葡萄: 	夏黑葡萄:S-Nh 夏黑:S-Nh 
+咸菁: 	田菁属:S-Nh 
+苏棉28: 	
+西部乳业: 	新西兰:S-Ns 新西兰:S-Ns 中国:S-Ns 新西兰:S-Ns 中国:S-Ns 格旺特:S-Nh 新西兰:B-Ns 南岛:E-Ns 格旺特:S-Nh 新西兰:S-Ns 新西兰:S-Ns 新西兰:S-Ns 新西兰:S-Ns 霍克:S-Nh 罗:B-Ni 莱斯顿:I-Ni 两处:I-Ni 分公司:E-Ni 新西兰:S-Ns 霍克:S-Nh 罗德:S-Nh 罗德:S-Nh 而罗德:S-Nh 中国:S-Ns 中国:S-Ns 中国:S-Ns 阿旺特:B-Ni 国际:I-Ni 乳业:I-Ni 新西兰:I-Ni 活力:I-Ni 牧场:E-Ni 中国:S-Ns 中国:S-Ns 新西兰:S-Ns 罗德:S-Nh 中国:S-Ns 中国:S-Ns 中国:S-Ns  :S-Nh 中国:S-Ns 中国:S-Ns 中国:S-Ns 中国:S-Ns 中国:S-Ns 中国:S-Ns 中国:S-Ns 中国:S-Ns 罗德:S-Nh 中国:S-Ns 中国:S-Ns 中国:S-Ns 新西兰:S-Ns 中国:S-Ns 中国:S-Ns 中国:S-Ns 中国:S-Ns 罗德:B-Nh 奎因:E-Nh 中国:S-Ns 格旺特:S-Nh 
+樱桃苗: 	山西:B-Ni 天龙:I-Ni 苗圃:E-Ni 
+中国油茶之乡: 	湖南:B-Ns 江西:I-Ns 广东:I-Ns 湖北:I-Ns 广西:I-Ns 福建:I-Ns 省:I-Ns 湖南:I-Ns 江西:E-Ns 中国:B-Ni 经济林:I-Ni 协会:E-Ni 中国油茶之乡:S-Ns 江西:B-Ns 丰城市:I-Ns 湖南:I-Ns 攸县:I-Ns 广东:I-Ns 兴宁市:I-Ns 平远县:I-Ns 湖北:I-Ns 麻城市:I-Ns 兴远县:I-Ns 湖南:I-Ns 邵阳县:I-Ns 福建省:I-Ns 福安市:E-Ns 
+湘西椪柑: 	湘西椪柑:B-Ni 湖南省:I-Ni 湘西自治州:I-Ni 特产:I-Ni 中国:I-Ni 地理:E-Ni 湘西:B-Ns 中国:E-Ns 湘西:S-Ns 中国:B-Ni 果品:I-Ni 协会:E-Ni 中国:S-Ns 湘西:S-Ns 桔中:B-Ni 之王:I-Ni 美称:I-Ni 中国:S-Ns 中国:S-Ns 上海:S-Ns 中国:B-Ni 绿色食品:I-Ni 发展:I-Ni 中心:E-Ni 
+星油藤: 	
+油橄榄疮痂病: 	四川:B-Ns 陕西:I-Ns 湖北:I-Ns 广西:E-Ns 
+中国丹桂之乡: 	中国丹桂之乡:S-Ns 中国:B-Ni 经济林:I-Ni 协会:E-Ni 浦城县:B-Ns 中国丹桂之乡:E-Ns 浦城:S-Ns 江苏:B-Ns 浙江:I-Ns 北京:I-Ns 上海:E-Ns 上海:B-Ni 世博园:E-Ni 北京:S-Ns 浦城:B-Ni 丹桂:I-Ni 树:I-Ni 浦城:S-Ns 中国丹桂之乡:B-Ns 福建:I-Ns 浦城:E-Ns 中国:S-Ns 中国丹桂之乡:S-Ns 屈原:S-Nh 浦城:S-Ns 楚国:S-Ns 屈原:S-Nh 南山:S-Ns 南山:S-Ns 之山:S-Ns 南山:S-Ns 之山:S-Ns 司马迁:S-Nh 江南:S-Ns 刘歆:S-Nh 西京:S-Ns 上林苑:S-Ns 汉元鼎:S-Ns 南越:S-Ns 武帝:S-Nh 南越:S-Ns 东越:S-Ns 王馀善:S-Nh 浦城:S-Ns 浦城:B-Ns 临江:E-Ns 汉阳:S-Ns 武帝:S-Nh 四路:S-Ns 东越:S-Ns 武帝:S-Nh 江淹:S-Nh 吴兴:S-Nh 浦城:S-Ns 江淹:S-Nh 北山:S-Ns 南江:S-Ns 若虹:S-Nh 浦城:B-Ns 九石渡:E-Ns 浦城:S-Ns 浙江大学:S-Ni 余明:S-Nh 浦城:S-Ns 丹桂:S-Nh 江淹:S-Nh 远山:S-Ns 舒金:S-Nh 郭沫若:S-Nh 江淹:S-Nh 吴兵:S-Nh 江淹:S-Nh 江淹:S-Nh 浦城:S-Ns 浦城:S-Ns 浦城:S-Ns 唐贞元:S-Nh 闽南:S-Ns 林披:S-Nh 林藻:B-Nh 林蕴:E-Nh 浦城县:S-Ns 五显岭:S-Ns 中原:S-Ns 岭南:S-Ns 浦城:S-Ns 兆祥:S-Nh 林藻:S-Nh 黄滔:S-Nh 浦城:S-Ns 南浦:S-Ns 浦城县:S-Ns 浦城:S-Ns 唐乾宁:S-Nh 浦城:S-Ns 嘉:S-Nh 浦城:S-Ns 祖祠:B-Ns 资福寺:E-Ns 乌阴桥:S-Ns 题资福寺:S-Ns 文昌:S-Ns 耿耿:S-Nh 浦城:S-Ns 章氏:S-Nh 章衡:S-Nh 宋仁宗:S-Nh 赵祯:S-Nh 章衡:S-Nh 万里:S-Nh 浦城:B-Ns 莲塘:I-Ns 镇余乐村:E-Ns 万里:S-Nh 章衡:S-Nh 丹桂:B-Ns 之乡:E-Ns 浦城:S-Ns 宋仁宗:S-Nh 丹:S-Nh 浦城:S-Ns 浙江:B-Ns 天台:E-Ns 宋仁宗:S-Nh 钱塘:S-Ns 吴自牧:S-Nh 梁录:S-Nh 清乾隆:B-Ns 浙江:E-Ns 宋高宗:S-Nh 南渡:S-Ns 临安:S-Ns 德寿宫:S-Ns 象山:S-Ns 高宗:S-Nh 杨万里:S-Nh 范成大:S-Nh 李清照:S-Nh 花中:S-Ns 宋仁宗:S-Nh 丹桂:S-Nh 中国丹桂之乡:S-Ns 浦城:S-Ns 上海:B-Ni 科学技术:I-Ni 出版社:E-Ni 杨康民:S-Nh 中国:S-Ns 浦城:S-Ns 杭州:S-Ns 浦城:S-Ns 浦城:S-Ns 浦城:S-Ns 浦城:S-Ns 浦城县:S-Ns 浦城县:S-Ns 浦城:S-Ns 浦城:S-Ns 浦城:S-Ns 厦门:B-Ni 教育:I-Ni 学院:E-Ni 沈世豪:S-Nh 浦城:S-Ns 浦城:S-Ns 浦城:S-Ns 浦城:S-Ns 遍山:S-Ns 浦城:S-Ns 孙振豪:S-Nh 郑天锦作:S-Nh 郭宜:S-Nh 桂兰:B-Nh 森:E-Nh 浦城县:S-Ns 越山:S-Ns 之枕山:B-Ns 浦城:E-Ns 山西:S-Ns 刘向:S-Nh 九滨:S-Ns 浦城县:S-Ns 满城:S-Ns 南浦:S-Ns 陈焯:S-Nh 沼西:B-Ns 灵石:E-Ns 浦城:B-Ns 署县:E-Ns 南平:S-Ns 谭垣:S-Nh 浦城:S-Ns 丛桂阴:S-Ns 郑潭作:B-Nh 诗云:E-Nh 孙霖:S-Nh 灵石:S-Ns 浦城:S-Ns 日本:S-Ns 浦城:S-Ns 浦城:B-Ni 丹桂:E-Ni 上海:B-Ns 北京:E-Ns 浦城:S-Ns 浦城:S-Ns 浦城:S-Ns 浦城:S-Ns 浦城:S-Ns 浦城县:S-Ns 浦城:B-Ni 临江镇:I-Ni 水:I-Ni 东村:I-Ni 杨柳:E-Ni 丹桂:B-Nh 王:I-Nh 九龙:S-Ns 王:S-Nh 唐桂:S-Nh 中国:S-Ns 上海:B-Ni 科技:I-Ni 出版社:E-Ni 富岭:S-Ns 源村:S-Ns 王外:S-Nh 富岭:B-Ns 镇靖:I-Ns 坑村:E-Ns 浦城县:S-Ns 浦城:S-Ns 浦城县:S-Ns 浦城县:S-Ns 浦城县:S-Ns 中国丹桂之乡:B-Ni 中国:I-Ni 经济林:I-Ni 协会:E-Ni 浦城:B-Ni 丹桂:E-Ni 之乡:S-Ns 浦城:S-Ns 
+竹篙薯: 	江南:S-Ns 淮山:S-Ns 淮山:S-Ns 赣江:S-Ns 江西省:B-Ns 泰和县:I-Ns 万合镇:E-Ns 
+紫乳无核葡萄: 	欧亚:S-Ns 中国:S-Ns 中国:S-Ns 青岛市:S-Ns 山东:B-Ni 卫视:E-Ni 
+武都油橄榄: 	武都油橄榄:B-Ns 甘肃省:I-Ns 陇南:E-Ns 武都:S-Ns 武都:S-Ns 中国:S-Ns 中国:B-Ni 四大:E-Ni 中国:S-Ns 甘肃省:S-Ns 中国:S-Ns ‍:S-Nh 

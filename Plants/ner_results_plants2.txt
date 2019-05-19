@@ -1,0 +1,20 @@
+冀香糯1号: 	农业部:S-Ni 河北省:B-Ns 秦皇岛:E-Ns 唐山市:S-Ns 
+保玉1号: 	江苏:B-Ni 保丰:I-Ni 集团:I-Ni 有限公司:E-Ni 中熟:S-Ns 夏播:S-Nh 
+岑溪软枝油茶: 	广西:B-Ni 林科院:E-Ni 
+D优二零二: 	四川:B-Ni 农业大学:I-Ni 水稻:I-Ni 研究所:E-Ni 四川:B-Ni 农大:I-Ni 高科:I-Ni 农业:I-Ni 有限责任:I-Ni 公司:E-Ni 安徽:B-Ni 川:I-Ni 农高科:I-Ni 种业:I-Ni 有限责任:I-Ni 公司:E-Ni 
+东三一五: 	中:S-Ns 
+东单335: 	东单335:S-Ns 叶鞘:S-Nh 
+东单80号: 	辽宁:B-Ni 东亚:I-Ni 种业:I-Ni 有限公司:E-Ni 丹:S-Nh 辽宁:S-Ns 吉林:S-Ns 北京:S-Ns 天津:S-Ns 河北:S-Ns 山西:S-Ns 云南:S-Ns 贵州:S-Ns 四川:S-Ns 重庆:S-Ns 湖南:S-Ns 湖北:S-Ns 广西:S-Ns 平坝:S-Ns 
+东单100号: 	辽宁:B-Ni 东亚:I-Ni 种业:I-Ni 有限公司:E-Ni 叶鞘:S-Nh 叶缘:S-Nh 
+东单八零号: 	辽宁:B-Ni 东亚:I-Ni 种业:I-Ni 有限公司:E-Ni 丹:S-Nh 辽宁:S-Ns 吉林:S-Ns 北京:S-Ns 天津:S-Ns 河北:S-Ns 山西:S-Ns 云南:S-Ns 贵州:S-Ns 四川:S-Ns 重庆:S-Ns 湖南:S-Ns 湖北:S-Ns 广西:S-Ns 平坝:S-Ns 
+东峰二号: 	
+东峰红: 	东峰红:S-Nh 
+东方56: 	江苏省:B-Ni 农业:I-Ni 科学院:E-Ni 江苏省:S-Ns 
+东方18: 	江苏省:B-Ni 农业:I-Ni 科学院:E-Ni 江苏省:S-Ns 
+丹137: 	丹东:B-Ni 农科院:E-Ni 中:S-Ns 
+丹玉402号: 	美国:S-Ns 辽宁沈阳:S-Ns 铁岭:S-Ns 丹东:S-Ns 大连:S-Ns 鞍山:S-Ns 锦州:S-Ns 朝阳:S-Ns 葫芦岛:S-Ns 
+丹玉403号: 	丹东:B-Ni 农业:I-Ni 科学院:E-Ni 丹:S-Nh 辽宁沈阳:S-Ns 铁岭:S-Ns 丹东:S-Ns 大连:S-Ns 鞍山:S-Ns 锦州:S-Ns 朝阳:S-Ns 葫芦岛:S-Ns 
+东农710: 	黑龙江省:S-Ns 
+丹玉83号: 	叶鞘:S-Nh 叶缘:S-Nh 农业部:B-Ni 农产品:I-Ni 质量:I-Ni 监督:I-Ni 检验:I-Ni 测试中心:E-Ni 沈阳:S-Ns 
+丹玉89号: 	丹东:B-Ni 农业:I-Ni 科学院:E-Ni 叶鞘:S-Nh 辽宁省:S-Ns 辽宁沈阳:S-Ns 铁岭:S-Ns 丹东:S-Ns 大连:S-Ns 鞍山:S-Ns 锦州:S-Ns 朝阳:S-Ns 葫芦岛:S-Ns 
+丹玉九六号: 	中华人民共和国:B-Ni 农业部:E-Ni 辽宁:S-Ns 吉林:S-Ns 河北:S-Ns 山西:S-Ns 汾阳:B-Ns 地区:E-Ns 内蒙古:B-Ns 赤峰:I-Ns 地区:E-Ns 陕西:B-Ns 延安地区:E-Ns 

@@ -1,0 +1,329 @@
+冀香糯1号: 	农业部:S-Ni 河北省:B-Ns 秦皇岛:I-Ns 唐山市:E-Ns 
+保玉1号: 	保玉1号:B-Ni 江苏:I-Ni 保丰:I-Ni 集团:I-Ni 有限公司:E-Ni 中熟:S-Ns 
+岑溪软枝油茶: 	广西:B-Ni 林科院:E-Ni 
+D优二零二: 	四川:B-Ni 农业大学:I-Ni 水稻:I-Ni 研究所:E-Ni 四川:B-Ni 农大:I-Ni 高科:I-Ni 农业:I-Ni 有限责任:I-Ni 公司:E-Ni 安徽:B-Ni 川:I-Ni 农高科:I-Ni 种业:I-Ni 有限责任:I-Ni 公司:E-Ni 
+东三一五: 	
+东单335: 	东单335:S-Ns 禾:S-Nh 叶鞘:S-Nh 
+东单80号: 	东单80号:B-Ni 辽宁:I-Ni 东亚:I-Ni 种业:I-Ni 有限公司:E-Ni 丹:S-Nh 辽宁:B-Ns 吉林:E-Ns 北京:B-Ns 天津:I-Ns 河北:E-Ns 山西:S-Ns 云南:B-Ns 贵州:I-Ns 四川:I-Ns 重庆:I-Ns 湖南:I-Ns 湖北:I-Ns 广西:I-Ns 平坝:E-Ns 
+东单100号: 	东单100号:B-Ni 辽宁:I-Ni 东亚:I-Ni 种业:I-Ni 有限公司:E-Ni 叶鞘:S-Nh 叶缘:S-Nh 
+东单八零号: 	东单80号:B-Ni 辽宁:I-Ni 东亚:I-Ni 种业:I-Ni 有限公司:E-Ni 丹:S-Nh 辽宁:B-Ns 吉林:E-Ns 北京:B-Ns 天津:I-Ns 河北:E-Ns 山西:S-Ns 云南:B-Ns 贵州:I-Ns 四川:I-Ns 重庆:I-Ns 湖南:I-Ns 湖北:I-Ns 广西:I-Ns 平坝:E-Ns 
+东峰二号: 	
+东峰红: 	
+东方56: 	东方56:B-Ni 白菜:I-Ni 江苏省:I-Ni 农业:I-Ni 科学院:E-Ni 江苏省:S-Ns 
+东方18: 	江苏省:B-Ni 农业:I-Ni 科学院:E-Ni 江苏省:S-Ns 
+丹137: 	丹东:B-Ni 农科院:E-Ni 
+丹玉402号: 	美国:S-Ns 辽宁沈阳:B-Ns 铁岭:I-Ns 丹东:I-Ns 大连:I-Ns 鞍山:I-Ns 锦州:I-Ns 朝阳:I-Ns 葫芦岛:E-Ns 
+丹玉403号: 	丹玉403号:B-Ni 丹东:I-Ni 农业:I-Ni 科学院:E-Ni 辽宁沈阳:B-Ns 铁岭:I-Ns 丹东:I-Ns 大连:I-Ns 鞍山:I-Ns 锦州:I-Ns 朝阳:I-Ns 葫芦岛:E-Ns 
+东农710: 	黑龙江省:S-Ns 
+丹玉83号: 	叶鞘:S-Nh 叶缘:S-Nh 农业部:B-Ni 农产品:I-Ni 质量:I-Ni 监督:I-Ni 检验:I-Ni 测试中心:E-Ni 沈阳:S-Ns 
+丹玉89号: 	丹玉89号:B-Ni 丹东:I-Ni 农业:I-Ni 科学院:E-Ni 叶鞘:S-Nh 辽宁省:S-Ns 辽宁沈阳:B-Ns 铁岭:I-Ns 丹东:I-Ns 大连:I-Ns 鞍山:I-Ns 锦州:I-Ns 朝阳:I-Ns 葫芦岛:E-Ns 
+丹玉九六号: 	中华人民共和国:B-Ni 农业部:E-Ni 辽宁:S-Ns 吉林:B-Ns 晚熟:E-Ns 河北:S-Ns 山西:B-Ns 汾阳:I-Ns 地区:E-Ns 内蒙古:B-Ns 赤峰:I-Ns 地区:E-Ns 陕西:B-Ns 延安地区:E-Ns 
+丹阳红掌: 	丹阳红掌:B-Ni 广州:I-Ni 花卉:I-Ni 研究:I-Ni 中心:E-Ni 势强:S-Nh 
+丹科2187: 	丹:S-Ns 
+丰丽2号: 	
+丰产二号: 	广州地区:S-Ns 
+二金条: 	
+丰冠节瓜: 	丰冠节瓜:B-Ni 广东省:I-Ni 农业:I-Ni 科学院:I-Ni 蔬菜:I-Ni 研究所:E-Ni 
+丰产六号: 	
+丹玉404号: 	丹玉404号:B-Ni 丹东:I-Ni 农业:I-Ni 科学院:E-Ni 辽宁抚顺:B-Ns 铁岭:I-Ns 本溪:E-Ns 
+丰甜4号: 	甘肃省:B-Ni 兰州:I-Ni 白银:E-Ni 
+丰田三号: 	中国:S-Ns 海南:B-Ns 广东:I-Ns 广西:I-Ns 福建:I-Ns 冬种:E-Ns 
+丰源1号: 	丰源1号:B-Ni 丰源:I-Ni 种业:I-Ni 北方:I-Ni 玉米:I-Ni 研究所:E-Ni 辽宁:B-Ns 吉林:E-Ns 河南:B-Ns 河北:I-Ns 山东:I-Ns 地区:E-Ns 
+丰软占: 	中南:S-Ns 
+GN527: 	美国:B-Ni GENOSYS:I-Ni  :I-Ni LLC:I-Ni 公司:E-Ni 
+光亚2号: 	光亚2号:B-Ni 中国:I-Ni 水稻:I-Ni 研究所:E-Ni 浙江省:S-Ns 
+冈优一五八: 	四川:B-Ni 农业大学:I-Ni 水稻:I-Ni 研究所:E-Ni 
+冈绿: 	日本:S-Ns 日本:S-Ns 
+九九紫红茄: 	
+久脆: 	河北省:B-Ni 林业局:E-Ni 河北省:B-Ns 满城县:I-Ns 唐山市:I-Ns 丰润区:I-Ns 秦皇岛:I-Ns 海港区:I-Ns 地区:E-Ns 
+井冈701: 	江西省:B-Ni 农科院:I-Ni 生物工程:I-Ni 中心:E-Ni 江西省:B-Ni 品种:I-Ni 审定:I-Ni 委员会:E-Ni 
+九九王: 	
+京单二八: 	北京市:B-Ni 农林:I-Ni 科学院:I-Ni 玉米:I-Ni 研究:I-Ni 中心:E-Ni 京津唐:B-Ns 地区:E-Ns 叶鞘:S-Nh 北京:B-Ns 天津:I-Ns 两市:I-Ns 河北省:I-Ns 唐山:I-Ns 廊坊:I-Ns 保定:E-Ns 沧州:S-Ns 
+京新801: 	京新801:B-Ni 武威:I-Ni 三新:I-Ni 种业:I-Ni 有限责任:I-Ni 公司:E-Ni 甘肃省:S-Ns 
+京冬一七: 	北京:S-Ns 小麦:B-Ni 工程技术:I-Ni 研究:I-Ni 中心:E-Ni 
+京冬二二: 	国家:B-Ni 农业部:E-Ni 
+京福优167: 	福建省:B-Ni 三明市:I-Ni 品种:I-Ni 审定:I-Ni 委员会:E-Ni 
+京科青贮五一六: 	北京市:B-Ni 农林:I-Ni 科学院:I-Ni 玉米:I-Ni 研究:I-Ni 中心:E-Ni 叶鞘:S-Nh 叶缘:S-Nh 
+京花九号: 	京花9号:B-Ni 北京:I-Ni 杂交:I-Ni 小麦:I-Ni 工程技术:I-Ni 研究:I-Ni 中心:E-Ni 北京:S-Ns 
+今夏秋王: 	
+今夏王: 	
+京科968: 	叶鞘:S-Nh 颖:S-Nh 
+今冬王: 	王:S-Nh 四川盆地:S-Ns 
+今秋王: 	叶大披:S-Nh 
+佳绿: 	日本:S-Ns 日本:S-Ns 
+佳尔三三六: 	佳尔:S-Nh 吉林省:S-Ns 王义:S-Nh 美国:S-Ns 吉林省:B-Ni 农科院:E-Ni 叶鞘:S-Nh 叶缘:S-Nh 
+今夏青: 	
+佳玉: 	佳玉:S-Nh 佳玉:S-Nh 福建:S-Ns 
+冀棉616: 	
+K优二一三: 	K优二一三:S-Nh 四川省:B-Ni 嘉陵:I-Ni 农作物:I-Ni 品种:I-Ni 研究:I-Ni 中心:I-Ni 四川省:I-Ni 农科院:I-Ni 泸州:I-Ni 水稻:I-Ni 高粱:I-Ni 研究所:E-Ni 长江:S-Ns 
+克丰13号: 	黑龙江:S-Ns 内蒙古:B-Ns 呼伦贝尔:I-Ns 兴安盟:E-Ns 
+冀杂二号: 	河北省:B-Ni 农林:I-Ni 科学院:I-Ni 棉花:I-Ni 研究所:I-Ni 中国农业科学院:I-Ni 生物:I-Ni 技术:I-Ni 研究所:E-Ni 河北:S-Ns 山东:S-Ns 河南:S-Ns 江苏:B-Ns 安徽:I-Ns 淮河:E-Ns 陕西:B-Ns 关中:E-Ns 
+克丰一三号: 	黑龙江:S-Ns 内蒙古:B-Ns 呼伦贝尔:I-Ns 兴安盟:E-Ns 
+克单14: 	黑龙江省:B-Ni 农业:I-Ni 科学院:I-Ni 克山:I-Ni 分院:E-Ni 黑龙江省:B-Ni 农作物:I-Ni 品种:I-Ni 审定:I-Ni 委员会:E-Ni 
+两优六三二六: 	长江:S-Ns 叶挺:S-Nh 
+两优多系一号: 	福建:B-Ni 旺穗:I-Ni 种业:I-Ni 有限公司:E-Ni 福建省:B-Ni 农科院:I-Ni 水稻:I-Ni 研究所:E-Ni 
+临奥九号: 	中华人民共和国:B-Ni 农业部:E-Ni 四川:B-Ns 重庆:I-Ns 云南:I-Ns 湖南:I-Ns 湖北:I-Ns 贵州:I-Ns 遵义:I-Ns 地区:E-Ns 广西:B-Ns 平坝:E-Ns 
+临草2号: 	临草2号:B-Ni 山西省:I-Ni 农业:I-Ni 科学院:I-Ni 小麦:I-Ni 研究所:E-Ni 山西省:B-Ns 运城:I-Ns 临汾:E-Ns 
+乐丰优329: 	乐丰优329:S-Nh 福建省:B-Ni 农业:I-Ni 科学院:I-Ni 水稻:I-Ni 研究所:E-Ni 叶鞘:S-Nh 叶下:S-Nh 
+乐豆1号: 	乐山市:B-Ni 农科所:E-Ni 日本:S-Ns 
+六陈: 	吴茱萸:S-Nh 陈放:S-Nh 六陈:S-Nh 广西省:B-Ns 平南县:E-Ns 
+内二优六号: 	中华人民共和国:B-Ni 农业部:E-Ni 
+内葵杂3号: 	内蒙古:B-Ni 农牧业:I-Ni 科学院:E-Ni 赤峰市:B-Ns 翁牛特旗:I-Ns 林西县:I-Ns 克旗:I-Ns 松山区:I-Ns 敖汉旗:I-Ns 旗县:E-Ns 
+N2优28: 	湖北省:B-Ni 荆楚:I-Ni 种业:I-Ni 股份:I-Ni 有限公司:E-Ni 湖北省:B-Ni 农作物:I-Ni 品种:I-Ni 审定:I-Ni 委员会:E-Ni 
+农业地球化学: 	
+农乐988: 	山东:S-Ns 河北省:B-Ni 农林:I-Ni 科学院:I-Ni 植物保护:I-Ni 研究所:E-Ni 
+农丰长茄: 	广东省:B-Ni 农业:I-Ni 科学院:I-Ni 蔬菜:I-Ni 研究所:E-Ni 
+农华50: 	农华50:B-Ni 北京:I-Ni 金色:I-Ni 农华:I-Ni 种业:I-Ni 科技:I-Ni 有限公司:E-Ni 叶鞘:S-Nh 山西省:S-Ns 
+农华9: 	叶鞘:S-Nh 
+农华101: 	北京:B-Ni 金色:I-Ni 农华:I-Ni 种业:I-Ni 科技:I-Ni 有限公司:E-Ni 叶鞘:S-Nh 颖:S-Nh 北京:B-Ns 天津:I-Ns 河北:E-Ns 山西:S-Ns 辽宁:S-Ns 吉林:S-Ns 内蒙古:B-Ns 赤峰:I-Ns 地区:E-Ns 陕西:B-Ns 延安地区:E-Ns 山东:B-Ns 河南:E-Ns 驻马店:B-Ns 河北:E-Ns 陕西:B-Ns 关中:E-Ns 安徽:S-Ns 山西:B-Ns 运城地区:E-Ns 
+农友208西瓜: 	
+农大3494: 	北京市:S-Ns 京:S-Ns 京:S-Ns 
+农大3138: 	叶鞘:S-Nh 
+Q优6号: 	云南:B-Ns 贵州:I-Ns 重庆:E-Ns 武陵山:S-Ns 四川:B-Ns 平坝:E-Ns 陕西:S-Ns 
+乒乓葡萄: 	中国:S-Ns 日本:S-Ns 日本:S-Ns 中国:S-Ns 
+全优五二七: 	福建省:B-Ni 农科院:I-Ni 水稻:I-Ni 研究所:I-Ni 四川:I-Ni 农业大学:I-Ni 水稻:I-Ni 研究所:E-Ni 
+农大棉9号: 	河北省:B-Ni 农林:I-Ni 科学院:I-Ni 植物保护:I-Ni 研究所:E-Ni 黄萎:S-Nh 河北省:S-Ns 
+三北一一: 	中华人民共和国:B-Ni 农业部:E-Ni 四川:B-Ns 重庆:I-Ns 贵州:I-Ns 湖南:I-Ns 湖北:I-Ns 云南:I-Ns 平坝:E-Ns 
+三青大棒香笋: 	
+世纪甜: 	山西:B-Ni 迪丰:I-Ni 农业:I-Ni 科技开发:I-Ni 有限公司:I-Ni 山西省:I-Ni 农业:I-Ni 科学院:I-Ni 园艺:I-Ni 研究所:E-Ni 
+世纪137: 	福建省:B-Ni 农科院:E-Ni 福建省:S-Ns 
+T301: 	甘肃:B-Ns 武威:E-Ns 澳大利亚:S-Ns 
+T302: 	
+T优二七二: 	湖南省:S-Ns 
+T优一五: 	湖南:B-Ni 怀化:I-Ni 奥谱隆:I-Ni 作物:I-Ni 育种:I-Ni 工程:I-Ni 研究所:E-Ni 长江:S-Ns 江西:B-Ns 湖南:I-Ns 安徽:I-Ns 浙江:E-Ns 
+万吉晚包心大芥菜: 	叶柄:S-Nh 
+五优376: 	广东省:B-Ni 农业:I-Ni 科学院:I-Ni 水稻:I-Ni 研究所:E-Ni 
+五优613: 	湖南省:S-Ns 
+五叶米冬瓜: 	
+五优一三五: 	
+先玉508: 	先玉508:B-Ni 玉米:I-Ni 品种:I-Ni 铁岭:I-Ni 先锋:I-Ni 种子:I-Ni 研究:I-Ni 有限公司:E-Ni 四川:B-Ns 重庆:I-Ns 湖南:I-Ns 湖北:I-Ns 贵州:I-Ns 云南:I-Ns 广西:I-Ns 平坝:E-Ns 
+先玉696: 	北京:B-Ns 天津:I-Ns 河北:E-Ns 山西:B-Ns 吉林:I-Ns 内蒙古:I-Ns 赤峰:I-Ns 地区:E-Ns 陕西:B-Ns 延安地区:E-Ns 
+先玉698: 	叶鞘:S-Nh 叶缘:S-Nh 辽宁抚顺:B-Ns 铁岭:I-Ns 本溪:E-Ns 中熟:S-Ns 
+先玉738: 	铁岭:B-Ni 先锋:I-Ni 种子:I-Ni 研究:I-Ni 有限公司:E-Ni 河南省:S-Ns 
+先甜五号: 	先甜5号:B-Ni 甜玉米:I-Ni 瑞士:I-Ni 先正达:I-Ni 泰国:I-Ni 公司:E-Ni 泰国:S-Ns 维萨:S-Nh 广东省:B-Ni 农作物:I-Ni 品种:I-Ni 审定:I-Ni 委员会:E-Ni 
+兴农种子: 	湘潭市:S-Ns 
+先正达408: 	中国:B-Ni 投资:I-Ni 有限公司:E-Ni 
+兴滇4号: 	舒心:S-Nh 长江:B-Ns 黄河:E-Ns 诸省:B-Ns 福建省:I-Ns 黑龙江:I-Ns 广西:I-Ns 辽宁:I-Ns 内蒙:E-Ns 玉溪:B-Ns 地区:E-Ns 楚雄州:S-Ns 
+兴滇一号: 	云南:B-Ns 贵州:I-Ns 四川:I-Ns 广西:I-Ns 黑龙江:I-Ns 甘肃:E-Ns 
+Y两优689: 	黄亮:S-Nh 颖:S-Nh 
+Y两优二零: 	华南:S-Ns 海南:B-Ns 广西:E-Ns 广东:B-Ns 中南:E-Ns 福建:S-Ns 
+Y两优696: 	湖南省:S-Ns 叶鞘:S-Nh 
+一丰113: 	四川省:B-Ni 农科院:I-Ni 作物:I-Ni 四川:I-Ni 一丰:I-Ni 种业:I-Ni 有限责任:I-Ni 公司:E-Ni 重庆市:B-Ni 农科院:E-Ni 
+优I1501: 	江西:S-Ns 
+元两优81: 	中强:S-Nh 广东省:S-Ns 
+偃单8号: 	河北省:S-Ns 
+中33: 	北京:S-Ns 河南省:B-Ni 农作物:I-Ni 品种:I-Ni 审定:I-Ni 委员会:E-Ni 河南:S-Ns 皖北:B-Ns 鲁西南:I-Ns 苏北:E-Ns 
+中京优四七零: 	中国:B-Ni 种子:I-Ni 集团公司:E-Ni 
+中优早3号: 	中优早3号:B-Ni 中国:I-Ni 水稻:I-Ni 研究所:I-Ni 湖南省:I-Ni 水稻:I-Ni 研究所:E-Ni 江西省:B-Ni 品种:I-Ni 审定:I-Ni 委员会:E-Ni 农业部:S-Ni 农业部:S-Ni 
+中优161: 	
+中农29号: 	中农29号:B-Ni 中国农业科学院:I-Ni 蔬菜:I-Ni 花卉:I-Ni 研究所:E-Ni 华北地区:S-Ns 
+中作零二零一: 	中作零二零一:B-Ni 中国农业科学院:I-Ni 作物科学:I-Ni 研究所:E-Ni 京:S-Ns 北京:B-Ns 天津:I-Ns 河北:I-Ns 冀东:E-Ns 
+中作9017: 	京:S-Ns 河北:B-Ns 保定:I-Ns 河南:I-Ns 郑州:I-Ns 山东:I-Ns 临沂:I-Ns 地区:E-Ns 
+中优早81: 	中国:S-Ns 湖南省:B-Ni 衡阳市:I-Ni 早稻:E-Ni 衡阳市:S-Ns 湘早:S-Ns 衡阳市:S-Ns 湖南省:B-Ni 品种:I-Ni 审定:I-Ni 委员会:E-Ni 
+中华隐子草: 	
+中南优510: 	中南优510:B-Ni 江苏:I-Ni 中南:I-Ni 种业:I-Ni 科技:I-Ni 有限公司:E-Ni 中南:S-Ns 江苏省:S-Ns 江苏省:S-Ns 
+中原单32: 	
+中嘉早32号: 	中国:B-Ni 水稻:I-Ni 研究所:I-Ni 嘉兴市:I-Ni 农科院:E-Ni 
+中棉所32: 	
+中棉所33: 	山西省:S-Ns 
+中棉所35: 	新疆:S-Ns 
+中棉所34: 	美国:S-Ns 中国农业科学院:B-Ni 棉花:I-Ni 研究所:E-Ni 河南省:S-Ns 河南省:S-Ns 河南省:S-Ns 
+中棉所36: 	天津市:B-Ni 新疆维吾尔自治区:I-Ni 全国:I-Ni 品种:I-Ni 审定:I-Ni 委员会:E-Ni 新疆:S-Ns 
+中棉所38: 	
+中棉所40: 	中棉所40:B-Ni 棉花:I-Ni 中国农科院:I-Ni 棉花:I-Ni 研究所:E-Ni 农业部:S-Ni 
+中棉所42: 	
+中棉所41: 	中棉所41:B-Ni 中国农科院:I-Ni 棉花:I-Ni 研究所:E-Ni 
+中早4号: 	浙江省:S-Ns 中国:B-Ni 浙江省:I-Ni 农作物:I-Ni 品种:I-Ni 审定:I-Ni 委员会:E-Ni 
+中棉所39: 	
+中棉所43: 	新疆:S-Ns 
+中棉所50: 	河南省:S-Ns 
+中杂15号: 	
+中棉所52: 	
+中棉所44: 	
+中棉所48: 	
+中棉所45: 	
+中棉所51: 	
+中棉所55: 	中:S-Ns 
+中棉所54: 	
+中棉所59: 	浙江省:S-Ns 浙江省:S-Ns 
+中棉所57: 	中:S-Ns 茸毛:S-Nh 
+中棉所56: 	
+中棉所60: 	
+中棉所58: 	特克斯:B-Nh 马:E-Nh 山东:B-Ns 河北:I-Ns 河南:I-Ns 安徽:E-Ns 辽宁:B-Ns 甘肃:E-Ns 
+中棉所66: 	
+中棉所65: 	安徽:B-Ni 中:I-Ni 棉种:I-Ni 业:I-Ni 长江:I-Ni 有限责任:I-Ni 公司:E-Ni 
+中棉所64: 	山东:B-Ns 河北:I-Ns 河南:I-Ns 安徽:E-Ns 晋北:B-Ns 辽宁:I-Ns 甘肃:E-Ns 
+中棉所70: 	中棉所70:B-Ni 中国农业科学院:I-Ni 棉花:I-Ni 研究所:I-Ni 中国农业科学院:I-Ni 生物:I-Ni 技术:I-Ni 研究所:E-Ni 
+中棉所73: 	
+中棉所68: 	
+中棉所74: 	山东:S-Ns 河南:S-Ns 
+中棉所75: 	特克斯:B-Nh 马:E-Nh 
+中江玉703: 	中江玉703:B-Ni 江苏:I-Ni 中:I-Ni 江:I-Ni 种业:I-Ni 股份:I-Ni 有限公司:E-Ni 中熟:S-Ns 江苏省:S-Ns 
+中油九八D: 	中油:B-Ni 98D:I-Ni 中国农业科学院:I-Ni 油料作物:I-Ni 研究所:E-Ni 
+中江红妍: 	中江红妍:B-Ni 南京:I-Ni 利华:I-Ni 蔬菜:E-Ni 江苏:B-Ni 中:I-Ni 江:I-Ni 种业:I-Ni 股份:I-Ni 有限公司:E-Ni 江苏省:S-Ns 
+中玉50: 	叶鞘:S-Nh 华北:S-Ns 
+中油桃8号: 	郑州:B-Ni 果树:I-Ni 研究所:E-Ni 
+中浙优86: 	中浙优86:B-Ni 中国:I-Ni 水稻:I-Ni 研究所:I-Ni 浙江:I-Ni 勿忘:I-Ni 农:I-Ni 种业:I-Ni 股份:I-Ni 有限公司:E-Ni 
+中莲1A: 	中莲1A:B-Ni 江苏:I-Ni 中南:I-Ni 种业:I-Ni 科技:I-Ni 有限公司:E-Ni 
+中育10号: 	
+中育6号: 	中育6号:B-Ni 中国农业科学院:I-Ni 棉花:I-Ni 研究所:E-Ni 河南省:B-Ni 全国:I-Ni 农作物:I-Ni 品种:I-Ni 审定:I-Ni 委员会:E-Ni 
+中迪985: 	辽宁:B-Ni 丹铁:I-Ni 种业:I-Ni 科技:I-Ni 有限公司:E-Ni 辽宁:B-Ns 吉林:E-Ns 河北:S-Ns 天津:B-Ns 山西:I-Ns 内蒙古:I-Ns 赤峰:I-Ns 地区:E-Ns 陕西:B-Ns 延安地区:E-Ns 
+中育9号: 	
+中育12号: 	中育12号:B-Ni 04:I-Ni 中:I-Ni 70:I-Ni 中国农业科学院:I-Ni 棉花:I-Ni 研究所:I-Ni 中国农业科学院:I-Ni 作物科学:I-Ni 研究所:E-Ni 中国农业科学院:B-Ni 棉花:I-Ni 研究所:E-Ni 
+中黄36: 	
+中迪九八五: 	叶鞘:S-Nh 颖:S-Nh 
+中科11号: 	中科11号:B-Ni 北京:I-Ni 中科:I-Ni 华泰:I-Ni 科技:I-Ni 有限公司:I-Ni 河南:I-Ni 科泰:I-Ni 种业:I-Ni 有限公司:E-Ni 郑:S-Nh 郑:S-Nh 黄:S-Nh 
+仲恺花10号: 	
+仲紫糯1号: 	广东省:S-Ns 
+有机蔬菜: 	
+葫芦瓜: 	河北:S-Ns 中国:S-Ns 中国:S-Ns 常吃:S-Nh 后全:S-Nh 中国:S-Ns 
+黄金瓜: 	伊丽莎白:S-Nh 
+南康甜柚: 	
+南盛沙糖桔: 	南盛沙糖桔:S-Ns 
+无核白鸡心: 	欧亚:S-Nh 美国:S-Ns 
+早春红玉西瓜: 	日本:S-Ns 
+开心果: 	阿月浑子:S-Nh 叙利亚:B-Ns 伊拉克:I-Ns 伊朗:E-Ns 苏联:S-Ns 中国:B-Ns 新疆:E-Ns 
+奥冠红梨: 	奥冠红梨:S-Nh 山东省:B-Ni 聊城:I-Ni 大学:I-Ni 农学院:E-Ni 
+红考密斯: 	美国:B-Ni 华盛顿州:I-Ni 从考:I-Ni 密斯:I-Ni 梨:E-Ni 
+宁引五号: 	
+新西兰红梨: 	新西兰:S-Ns 河南:B-Ns 虞城县:E-Ns 中国:S-Ns 
+友谊1号: 	友谊1号:B-Ni 黑龙江:I-Ni 友谊:I-Ni 农场:E-Ni 王述:S-Nh 北大荒:S-Ns 
+早红考密斯: 	早红考密斯:S-Nh 英国:S-Ns 河北省:B-Ni 农林:I-Ni 科学院:I-Ni 昌黎:I-Ni 果树:I-Ni 研究所:E-Ni 
+早佳梨: 	
+齐甜一号: 	黑龙江省:B-Ni 齐齐哈尔市:I-Ni 蔬菜:I-Ni 研究所:E-Ni 巴青:S-Nh 内蒙古:S-Ns 
+北农福田: 	北农福田:S-Ns 北京地区:S-Ns 
+宝凤: 	陈:S-Nh 徐陵:S-Ns 玉台新:S-Nh 北地:B-Ns 燕脂:E-Ns 魏帝:S-Nh 轩辕:S-Nh 
+富莱特: 	北京地区:S-Ns 
+航兴天秀2号: 	北京地区:S-Ns 
+航兴天秀1号: 	皮厚:S-Nh 
+红小玉: 	小玉红:S-Nh 
+黑翡翠: 	包公:S-Nh 
+金太阳无籽一号: 	金太阳:B-Ns 无籽:E-Ns 中国农科院:B-Ni 郑州:I-Ni 果树:I-Ni 研究所:E-Ni 
+吉福二号: 	北京地区:S-Ns 
+京博一号: 	
+绿明珠: 	皮厚:S-Nh 福州:B-Ns 莆田:E-Ns 
+荃抗绿霸: 	兰州市:B-Ni 城关区:I-Ni 兴农种子:I-Ni 经营部:I-Ni 安徽:I-Ni 荃:I-Ni 银高科:I-Ni 种业:I-Ni 股份:I-Ni 有限公司:E-Ni 甘肃省:B-Ns 兰州:I-Ns 白银:I-Ns 武威:I-Ns 酒泉:E-Ns 
+瑞宏: 	瑞宏:S-Nh 京:S-Ns 瑞宏:S-Ns 
+荃抗8号: 	荃抗8号:B-Ni 兰州市:I-Ni 城关区:I-Ni 兴农种子:E-Ni 比西:S-Ns 
+日本丽都: 	日本丽都:B-Ns 日本:E-Ns 
+无籽红蜜: 	江苏省:S-Ns 京欣:S-Ns 江苏省:S-Ns 京欣:S-Ns 京欣:S-Ns 
+小玉无籽: 	小玉无籽:B-Ni 江苏省:I-Ni 农业:I-Ni 科学院:I-Ni 蔬菜:I-Ni 研究所:E-Ni 江苏省:S-Ns 
+西瓜焦腐病: 	长江:S-Ns 
+西瓜煤污病: 	
+西瓜终极腐霉猝倒病: 	华南:S-Ns 
+西瓜绵腐病: 	
+西瓜花腐病: 	
+西瓜蔓枯病: 	长江三角洲:S-Ns 
+西瓜细菌性角斑病: 	叶柄:S-Nh 
+鑫福金太郎: 	鑫福金太郎:S-Nh 
+喜春: 	北京:B-Ni 绿苗:I-Ni 农业:I-Ni 技术:I-Ni 研究所:E-Ni 
+雪峰红宝无籽: 	巧施:S-Nh 
+浙蜜6号: 	浙蜜6号:B-Ni 露地:I-Ni 西瓜:I-Ni 浙江大学:I-Ni 农业:I-Ni 生物:I-Ni 技术:I-Ni 学院:I-Ni 浙江:I-Ni 勿忘:I-Ni 农:I-Ni 种业:I-Ni 股份:I-Ni 有限公司:E-Ni 
+郑抗无籽5号: 	
+郑抗无籽3号: 	郑抗无籽3号:B-Ni 品种:I-Ni 来源:I-Ni 中国农业科学院:I-Ni 郑州:I-Ni 果树:I-Ni 研究所:E-Ni 
+郑抗无籽1号: 	郑抗无籽1号:B-Ni 中国农业科学院:I-Ni 郑州:I-Ni 果树:I-Ni 研究所:E-Ni 
+中京1号: 	北京地区:S-Ns 
+郑抗新一号: 	中:S-Ns 势强:S-Nh 福建省:S-Ns 
+州职一号: 	州职一号:B-Ni 湘西:I-Ni 民族:I-Ni 职业:I-Ni 技术:I-Ni 学院:E-Ni 
+郑果5506: 	中国农业科学院:B-Ni 郑州:I-Ni 果树:I-Ni 研究所:E-Ni 河南省:S-Ns 河南省:S-Ns 河南省:S-Ns 
+扁豆绵疫病: 	
+碧龙一号: 	中国:S-Ns 
+白玉春: 	白玉春:S-Nh 叶缘:S-Nh 
+春优5号黄瓜: 	
+朝优4号: 	
+菜豆细菌性疫病: 	
+超人一号: 	露地栽培:S-Nh 
+长春大型春萝卜: 	长春大型春萝卜:S-Ns 韩国:S-Ns 北京市:B-Ni 特种:I-Ni 蔬菜:I-Ni 种苗:I-Ni 公司:E-Ni 
+东升满堂红萝卜: 	势强:S-Nh 叶柄:S-Nh 
+大红袍荸荠: 	浙江省:S-Ns 
+反季节蔬菜: 	
+富春大根: 	富春大根:B-Ni 萝卜:I-Ni 品种:I-Ni 北京市:I-Ni 特种:I-Ni 蔬菜:I-Ni 种苗:I-Ni 公司:E-Ni 韩国:B-Ni 汉城:I-Ni 种苗:I-Ni 公司:E-Ni 
+甘蓝菜: 	地中海:S-Ns 叶大而厚:S-Nh 美国:B-Ni 防癌:I-Ni 协会:E-Ni 
+沪油15: 	
+玲珑脆: 	
+罗马直立生菜: 	
+辽茄五号--茄子: 	
+冕宁红萝卜: 	四川省:B-Ns 冕宁县:E-Ns 叶簇:S-Nh 
+宁油16号: 	
+欧粉一号: 	美国:S-Ns 
+清白早黄瓜: 	
+青海大红番茄: 	青海大红番茄:S-Ns 青海省:B-Ni 农科院:E-Ni 西宁市:S-Ns 青海省:S-Ns 
+穗新1号: 	广州市:S-Ns 
+蔬菜大棚: 	
+铁椒1号: 	
+无公害蔬菜: 	
+夏棠1号: 	广州市:B-Ns 天河区:I-Ns 东圃:E-Ns 
+新红胡萝卜: 	天津市:S-Ns 
+新杂1号: 	江苏省:B-Ni 连云港市:I-Ni 农业:I-Ni 科学:I-Ni 研究所:E-Ni 江苏:B-Ns 南通:I-Ns 淮阴:I-Ns 连云港:E-Ns 
+线杂1号: 	江苏:S-Ns 
+鑫福冬棚黄瓜: 	鑫福牌:B-Ni 冬棚:I-Ni 沈阳市:I-Ni 科普:I-Ni 园艺:I-Ni 研究所:E-Ni 
+鑫福秋棚黄瓜: 	
+雪参果: 	非洲:B-Ns 墨西哥:E-Ns 台湾省:S-Ns 
+鑫福高抗巨丰199黄瓜: 	沈阳市:B-Ni 科普:I-Ni 园艺:I-Ni 研究所:E-Ni 
+中农7号: 	中农7号:B-Ni 中国农科院:I-Ni 蔬菜:I-Ni 花卉:I-Ni 研究所:E-Ni 华北:S-Ns 华东:B-Ns 地区:E-Ns 
+扬州长白芹: 	江苏省:S-Ns 江苏省:S-Ns 高达:S-Nh 
+湘杏98: 	
+夏秀2000: 	夏秀2000:S-Nh 浙江省:B-Ni 农科院:E-Ni 
+加工菜豆1号: 	法国:S-Ns 
+奥两优76: 	湖南省:S-Ns 湖南:B-Ni 怀化:I-Ni 奥谱隆:I-Ni 作物:I-Ni 育种:I-Ni 工程:I-Ni 研究所:E-Ni 湖南省:S-Ns 
+博II优668: 	
+奥两优二八: 	湖南:B-Ni 怀化:I-Ni 奥谱隆:I-Ni 作物:I-Ni 育种:I-Ni 工程:I-Ni 研究所:E-Ni 江西:B-Ns 湖南:I-Ns 湖北:I-Ns 安徽:I-Ns 长江:E-Ns 
+炳1A: 	
+博优云三: 	博优云三:S-Nh 广东:B-Ni 华茂高科:I-Ni 种业:I-Ni 有限公司:E-Ni 广东省:S-Ns 
+博优820: 	广西:B-Ni 金:I-Ni 稻子:I-Ni 种业:I-Ni 有限公司:E-Ni 
+白粳1号: 	
+博优2155: 	
+C两优396: 	高感褐飞:S-Nh 
+川香3号: 	四川省:B-Ni 农业:I-Ni 科学院:I-Ni 作物:I-Ni 四川:I-Ni 天宇:I-Ni 种业:I-Ni 有限责任:I-Ni 公司:E-Ni 
+川香优2号: 	四川省:B-Ni 农科院:I-Ni 作物:I-Ni 研究所:I-Ni 四川:I-Ni 华丰:I-Ni 种业:I-Ni 有限公司:E-Ni 川东:B-Ns 川南:I-Ns 重庆:I-Ns 贵州:I-Ns 广西:I-Ns 云南:I-Ns 安徽:I-Ns 湖北:I-Ns 长江:E-Ns 
+春优二号: 	中国:B-Ni 水稻:I-Ni 研究所:I-Ni 浙江:I-Ni 农科:I-Ni 种业:I-Ni 有限公司:E-Ni 长江:S-Ns 浙江:B-Ns 上海:I-Ns 江苏:E-Ns 湖北:S-Ns 安徽:S-Ns 
+楚粳27号: 	楚雄州:B-Ni 农科所:E-Ni 保山市:B-Ni 农科所:E-Ni 
+川优九五二七: 	
+川香9838: 	汕优:S-Ns 汕优:S-Ns 
+灿型杂交水稻: 	中国:S-Ns 美国:S-Ns 
+川优75535: 	四川省:B-Ni 农科院:E-Ni 系川:S-Ns 四川省:B-Ns 平坝:I-Ns 丘陵区:E-Ns 
+川农优527: 	四川:B-Ni 农业大学:I-Ni 水稻:I-Ni 研究所:I-Ni 四川:I-Ni 农业大学:I-Ni 正红:I-Ni 种业:I-Ni 有限责任:I-Ni 公司:E-Ni 
+川江优3号: 	四川:S-Ns 四川:B-Ni 科杏:I-Ni 种业:I-Ni 有限责任:I-Ni 公司:E-Ni 四川:B-Ni 科杏:I-Ni 种业:I-Ni 有限责任:I-Ni 公司:E-Ni 汕优:S-Ns 安徽:S-Ns 滁州:B-Ni 种子公司:I-Ni 四川:I-Ni 隆平:I-Ni 高科:I-Ni 云南:I-Ni 红河州:I-Ni 农科所:I-Ni 实验:E-Ni 湖北省:S-Ns 
+D奇宝优1号: 	D奇宝优1号:B-Ni 福建:I-Ni 尤溪:I-Ni 良种:I-Ni 生化:E-Ni 
+D优527: 	中国:S-Ns 
+鄂晚16: 	湖北省:B-Ni 孝感市:I-Ni 农科所:E-Ni 
+eK优10号: 	金谷:S-Nh 
+eK优4号: 	叶挺:S-Nh 江西省:S-Ns 金优:S-Nh 金优:S-Nh 金优:S-Nh 
+富优二一: 	贵州:B-Ns 湖南:I-Ns 湖北:I-Ns 重庆:I-Ns 武陵山:E-Ns 
+福优77: 	福建省:S-Ns 
+福优晚3: 	福州:S-Ns 闽西北:S-Ns 
+福优964: 	福建省:S-Ns 
+春江糯2号: 	春江糯2号:B-Ni 中国:I-Ni 水稻:I-Ni 研究所:E-Ni 中熟:S-Ns 
+菲优600: 	浙江省:S-Ns 
+丰美占: 	广东省:B-Ni 农业:I-Ni 科学院:I-Ni 水稻:I-Ni 研究所:E-Ni 华南:S-Ns 
+丰莉丝苗: 	广东省:B-Ns 中南:E-Ns 
+富优2号水稻: 	四川:S-Ns 
+辐优151: 	江油市:B-Ni 农业:I-Ni 科学:I-Ni 研究所:I-Ni 成都市:I-Ni 南方:I-Ni 杂交:I-Ni 水稻:I-Ni 研究所:E-Ni 江恢:S-Nh 四川省:S-Ns 四川省:S-Ns 重庆市:S-Ns 湖南省:S-Ns 四川省:S-Ns 
+福龙两优863: 	福建省:B-Ns 龙岩市:E-Ns 
+丰登1号: 	
+丰丝占: 	广东省:S-Ns 
+丰中占: 	
+丰优128: 	叶鞘:S-Nh 
+富优6号水稻: 	四川:S-Ns 长江:S-Ns 广西:S-Ns 
+丰优丝苗: 	丰优丝苗:B-Ni 广东省:I-Ni 农业:I-Ni 科学院:I-Ni 水稻:I-Ni 研究所:E-Ni 
+富优1号水稻: 	
+丰优638: 	
+丰两优晚三: 	丰两优晚三:S-Nh 江西:B-Ns 湖南:I-Ns 浙江:I-Ns 湖北:I-Ns 安徽:I-Ns 长江:E-Ns 
+丰秀占: 	广东省:S-Ns 广东省:S-Ns 
+国稻9号: 	长江:S-Ns 
+广超丝苗: 	农业部:S-Ni 武汉:S-Ns 
+桂农占: 	
+国稻3号: 	国稻3号:B-Ni 中国:I-Ni 水稻:I-Ni 研究所:E-Ni 江西省:B-Ns 浙江省:E-Ns 
+国稻1号: 	国稻1号:B-Ni 原名:I-Ni 中优:E-Ni 中国:B-Ni 水稻:I-Ni 研究所:E-Ni 江西省:S-Ns 华南:B-Ns 闽南:E-Ns 
+冈优177: 	冈优177:S-Nh 四川省:B-Ni 农科院:I-Ni 作物:I-Ni 研究所:I-Ni 四川:I-Ni 华丰:I-Ni 种业:I-Ni 有限责任:I-Ni 公司:E-Ni 
+谷优1259: 	谷优1259:S-Nh 三明市:B-Ni 农科所:E-Ni 福建省:B-Ni 农科院:I-Ni 水稻:I-Ni 研究所:E-Ni 广东省:B-Ns 韶关市:E-Ns 
+冈优615: 	冈优:S-Nh 
+广优2643: 	农业部:S-Ni 广优2643:S-Nh 农业部:S-Ni 贵州:B-Ns 湖南:I-Ns 湖北:I-Ns 重庆:I-Ns 武陵山:E-Ns 福建省:S-Ns 农业部:S-Ni 
+华两优69: 	华两优69:B-Ni 原名:I-Ni 华籼优:I-Ni 5549:I-Ni 江苏省:I-Ni 徐州:I-Ni 大华:I-Ni 种业:I-Ni 有限公司:E-Ni 江苏省:B-Ni 大华:I-Ni 种业:I-Ni 集团:I-Ni 有限公司:E-Ni 
+固广占: 	
+淦鑫203: 	长江:S-Ns 金优:S-Nh 
+华优418: 	江苏省:B-Ni 大华:I-Ni 种业:I-Ni 集团:I-Ni 有限公司:E-Ni 
+赣引5号: 	
+贵优2号: 	贵州大学:B-Ni 水稻:I-Ni 研究所:I-Ni 贵州省:I-Ni 种子:I-Ni 总站:E-Ni 贵州:S-Ns 叶鞘:S-Nh 
+合美占: 	
+淮优粳2号: 	淮优粳2号:B-Ni 江苏:I-Ni 
